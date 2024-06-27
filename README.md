@@ -4,6 +4,7 @@ It is a static website clone, this task is about to create a JioCinema Website c
 # Points to learn 
 + HTML tags
 + CSS Styling attributes
++ CSS Different Selector
 + CSS Positions
 + CSS different-different Properties
 + CSS Hover property
